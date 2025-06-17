@@ -1,5 +1,7 @@
-Alpha Tic-Tac-Toe
-Overview
+**Alpha Tic-Tac-Toe**
+
+**Overview**
+
 Alpha Tic-Tac-Toe is an exciting project focused on demonstrating an AI agent capable of mastering the classic 3x3 Tic-Tac-Toe game using principles inspired by DeepMind's AlphaZero algorithm. This project aims to provide a clear and functional example of self-play reinforcement learning, complete with a game environment, AI training pipeline, and a user-friendly interface.
 
 Features
